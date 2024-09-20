@@ -1,1 +1,1 @@
-Um pequeno projeto em React para treinamento da biblioteca de Styled Components
+A small project in React utilizing the library Styled Components.
